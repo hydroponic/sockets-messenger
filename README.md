@@ -6,4 +6,4 @@
 2. Запустите файл `src/com/company/Server.java`, далее запустите один или несколько раз файл `src/com/company/Client.java`, введите имя в каждой из консолей клиентского файла, далее можно писать неограниченное кол-во сообщений.
 ## Пример
 ~~~
-![Иллюстрация к проекту](https://github.com/hydroponic/sockets-messenger/template.png)
+[Image alt](https://github.com/hydroponic/sockets-messenger/template.png)
